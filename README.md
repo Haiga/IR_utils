@@ -17,7 +17,7 @@
 
 
 ## Useful repos (Python too)
-* [tcc_l2r](https://github.com/deap) - L2R for FS with GA
+* [tcc_l2r](https://github.com/Haia/tcc_l2r) - L2R for FS with GA
 * [RFEP](https://github.com/Kinteshi/RFEP) - Random Forest Evolutionary based Pruning
 
 
