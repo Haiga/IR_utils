@@ -16,10 +16,6 @@
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning in Python
 
 
-## Useful repos (Python too)
-* [tcc_l2r](https://github.com/Haiga/tcc_l2r) - Feature Selection with GA in Learning To Ranking Problem
-* [RFEP](https://github.com/Kinteshi/RFEP) - Random Forest Evolutionary based Pruning
-
 
 ## Installation R + rpy2
 
