@@ -1,0 +1,7 @@
+# pycharm project files
+.idea
+
+tunning_mlp/TunningParameters/__pycache__/*
+tunning_mlp/Utils_L2R/__pycache__/*
+tunning_mlp/Utils_L2R/__init__.pyc
+tunning_mlp/Utils_L2R/h_l2rMiscellaneous.pyc
