@@ -17,7 +17,7 @@
 
 
 ## Useful repos (Python too)
-* [tcc_l2r](https://github.com/Haia/tcc_l2r) - Feature Selection with GA in Learning To Ranking Problem
+* [tcc_l2r](https://github.com/Haiga/tcc_l2r) - Feature Selection with GA in Learning To Ranking Problem
 * [RFEP](https://github.com/Kinteshi/RFEP) - Random Forest Evolutionary based Pruning
 
 
