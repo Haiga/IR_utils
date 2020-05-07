@@ -16,6 +16,9 @@
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning in Python
 
 
+## Useful repos (Python too)
+* [tcc_l2r](https://github.com/deap) - L2R for FS with GA
+* [RFEP](https://github.com/Kinteshi/RFEP) - Random Forest Evolutionary based Pruning
 
 
 ## Installation R + rpy2
