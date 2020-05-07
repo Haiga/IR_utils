@@ -19,15 +19,16 @@
 
 
 ## Installation R + rpy2
-```
-Para instalar uma versão do R acima da 3.6
-```
 
+Para instalar uma versão do R acima da 3.6
+
+```
 sudo apt-get remove r-base-core
 sudo apt-get remove r-base
 sudo apt-get autoremove
+```
 
-
+```
 sudo apt install dirmngr apt-transport-https ca-certificates software-properties-common gnupg2
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
 sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/'
